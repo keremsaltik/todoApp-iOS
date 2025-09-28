@@ -37,3 +37,12 @@ This project is built using the **MVVM (Model-View-ViewModel)** architecture to 
 1.  Clone the repository to your local machine.
 2.  Open the `.xcodeproj` file in Xcode.
 3.  Run the project on an iOS simulator or a physical device.
+
+
+## Design and Credits
+
+The UI/UX design for this project is based on the "Todyapp - Todo list mobile app" template from the Figma Community. Thank you to the designer for sharing their work with the community.
+
+-   **Design:** Todyapp - Todo list mobile app
+-   **Designer:** Sourany
+-   **Source:** [Figma Community Link](https://www.figma.com/community/file/1231795347810697029/todyapp-todo-list-mobile-app)
