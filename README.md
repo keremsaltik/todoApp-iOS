@@ -24,11 +24,13 @@ This project is built using the **MVVM (Model-View-ViewModel)** architecture to 
 
 ## Screenshots
 
-*(You can add screenshots of your Login screen, Home screen, and New To-do screen here. This makes your project look very professional!)*
 
 | Login Screen                                       | Home Screen                                      | New Task Screen                                      |
 | :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
-| *(ogin_screen.png)* | *(home_screen.png)* | *(new_task_screen.png)* |
+| <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-28 at 22 19 28" src="https://github.com/user-attachments/assets/84f9f2b4-158c-4d0e-8c4c-a6175bd3894c" /> | <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-28 at 22 20 03" src="https://github.com/user-attachments/assets/1cada978-4ed3-4410-9cc3-2968329a5886" /> | <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-28 at 22 20 07" src="https://github.com/user-attachments/assets/41b2b053-f4eb-416c-91d7-17c309091fdc" /> |
+
+
+
 
 ## How to Run
 
